@@ -1,1 +1,1 @@
-# retailai-admission-challenge
+# api-admission-challenge
