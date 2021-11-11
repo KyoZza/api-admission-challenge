@@ -1,0 +1,14 @@
+{
+  "name": "api-assignment",
+  "version": "1.0.0",
+  "description": "for api assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sandro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
